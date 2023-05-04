@@ -1,0 +1,31 @@
+.all {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./New\ Project.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  margin-top: 20%;
+  height: 10vh;
+  width: 100%;
+  background-color: pink;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+  margin-top: 20%;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
